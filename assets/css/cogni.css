@@ -1,0 +1,8 @@
+@import url(https://cdn.jsdelivr.net/npm/comic-mono@0.0.1/index.css);
+
+/* Banner */
+
+	#banner h2 {
+		font-family: 'Comic Mono';
+		color: #DA70D6;
+	}
