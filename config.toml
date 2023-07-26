@@ -8,7 +8,7 @@ theme = "spectral"
 [params]
 fancyTitle = "Cogni Systems" # title for frontpage, may include image
 copyright = "Chirayu Desai"
-description = 'Software development and more'
+description = 'Open Source Software development, all things Android and more'
 #startbuttonText = "Activate"
 #startbuttonLink = "#"
 body_is_markdown = true
