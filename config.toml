@@ -136,7 +136,7 @@ subject = "New Submission!"
 [params.social]
 twitter = ""
 mastodon = ""
-github = "https://github.com/cognisystems"
+github = "cognisystems"
 facebook = ""
 youtube = ""
 instagram = ""
