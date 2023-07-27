@@ -30,10 +30,13 @@ title = "Jobs - We're hiring!"
 
 [params.one]
 enable = true
-title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
+title = 'Versatile, high quality software development'
 body = '''
 Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
 fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+We <3 open source! Vast experience with everything Android, system building,
+network architecture. Working with all sorts of codebases, small and large,
+old and new. You name it, we got it!
 '''
 
 [[params.one.icon]]
