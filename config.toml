@@ -42,17 +42,17 @@ old and new. You name it, we got it!
 [[params.one.icon]]
 icon = "fa-gem"
 style = "1"
-label = "Lorem"
+label = "Android"
 
 [[params.one.icon]]
 icon = "fa-heart"
 style = "2"
-label = "Ipsum"
+label = "Open source"
 
 [[params.one.icon]]
 icon = "solid fa-code"
 style = "3"
-label = "Dolor"
+label = "Software development"
 
 [params.two]
 enable = false
