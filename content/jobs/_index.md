@@ -1,7 +1,6 @@
 ---
 title: "Jobs"
-date: 2023-07-27
-draft: true
+date: 2024-01-17
 ---
 
 We're hiring!

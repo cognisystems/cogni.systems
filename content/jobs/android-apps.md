@@ -1,8 +1,7 @@
 ---
 title: "Android App Developer"
-date: 2023-07-27
+date: 2024-01-17
 summary: "Kotlin, Jetpack Compose"
-draft: true
 ---
 
 * CalyxOS, and adjacent open source apps

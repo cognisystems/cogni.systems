@@ -1,8 +1,7 @@
 ---
 title: "Android QA Engineer"
-date: 2023-07-27
+date: 2024-01-17
 summary: "AOSP QA"
-draft: true
 ---
 
 * CalyxOS, and adjacent open source apps
